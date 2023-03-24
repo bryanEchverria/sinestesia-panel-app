@@ -1,0 +1,23 @@
+
+.container_navbar{
+    padding:50px;
+    background-color: #260521;
+    text-align: center;
+    a{
+        color: #fff;
+    }
+    button{
+        background-color: #260521;
+        &:hover{
+            background-color:#a51a90;
+            opacity:50%;
+        }
+        img{
+            width: 20px;
+            height: 20px;
+        }
+    }
+    
+
+
+}
